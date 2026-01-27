@@ -1,0 +1,11 @@
+Title,Year,Runtime,imdbRating,BoxOffice,Genre
+Inception,2010,148 min,8.8,"$292,576,195","Action, Sci-Fi"
+Avatar,2009,162 min,7.9,"$760,507,625","Action, Adventure"
+The Room,2003,99 min,3.9,N/A,Drama
+Inception,2010,148 min,8.8,"$292,576,195","Action, Sci-Fi"
+Tenet,N/A,150 min,7.3,N/A,"Action, Sci-Fi"
+The Matrix,1999,136 min,8.7,"$171,479,930","Action, Sci-Fi"
+Interstellar,2014,,8.6,"$188,020,017","Adventure, Drama"
+,2020,120 min,7.0,"$50,000,000",Comedy
+Joker,2019,122 min,invalid,"$335,451,311","Crime, Drama"
+Parasite,2019,132 min,8.5,"$53,369,749","Drama, Thriller"

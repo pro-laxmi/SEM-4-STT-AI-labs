@@ -1,0 +1,82 @@
+[
+  {
+    "Title": "Inception",
+    "Year": "2010",
+    "Runtime": "148 min",
+    "imdbRating": "8.8",
+    "BoxOffice": "$292,576,195",
+    "Genre": "Action, Sci-Fi"
+  },
+  {
+    "Title": "Avatar",
+    "Year": "2009",
+    "Runtime": "162 min",
+    "imdbRating": "7.9",
+    "BoxOffice": "$760,507,625",
+    "Genre": "Action, Adventure"
+  },
+  {
+    "Title": "The Room",
+    "Year": "2003",
+    "Runtime": "99 min",
+    "imdbRating": "3.9",
+    "BoxOffice": "N/A",
+    "Genre": "Drama"
+  },
+  {
+    "Title": "Inception",
+    "Year": "2010",
+    "Runtime": "148 min",
+    "imdbRating": "8.8",
+    "BoxOffice": "$292,576,195",
+    "Genre": "Action, Sci-Fi"
+  },
+  {
+    "Title": "Tenet",
+    "Year": "N/A",
+    "Runtime": "150 min",
+    "imdbRating": "7.3",
+    "BoxOffice": "N/A",
+    "Genre": "Action, Sci-Fi"
+  },
+  {
+    "Title": "The Matrix",
+    "Year": "1999",
+    "Runtime": "136 min",
+    "imdbRating": "8.7",
+    "BoxOffice": "$171,479,930",
+    "Genre": "Action, Sci-Fi"
+  },
+  {
+    "Title": "Interstellar",
+    "Year": "2014",
+    "Runtime": "",
+    "imdbRating": "8.6",
+    "BoxOffice": "$188,020,017",
+    "Genre": "Adventure, Drama"
+  },
+  {
+    "Title": "",
+    "Year": "2020",
+    "Runtime": "120 min",
+    "imdbRating": "7.0",
+    "BoxOffice": "$50,000,000",
+    "Genre": "Comedy"
+  },
+  {
+    "Title": "Joker",
+    "Year": "2019",
+    "Runtime": "122 min",
+    "imdbRating": "invalid",
+    "BoxOffice": "$335,451,311",
+    "Genre": "Crime, Drama"
+  },
+  {
+    "Title": "Parasite",
+    "Year": "2019",
+    "Runtime": "132 min",
+    "imdbRating": "8.5",
+    "BoxOffice": "$53,369,749",
+    "Genre": "Drama, Thriller"
+  }
+]
