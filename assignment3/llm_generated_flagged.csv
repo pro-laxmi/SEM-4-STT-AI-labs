@@ -1,0 +1,13 @@
+review,sentiment,movie,predicted_sentiment,sentiment_match
+"This movie had potential, but it ultimately fell flat. The pacing was inconsistent, and the ending felt rushed and unsatisfying.",Neutral,Eternals,Negative,False
+"While technically proficient, the film lacked any real emotional resonance. I found it rather hollow.",Neutral,Arrival,Negative,False
+"I found the movie to be quite average. The story was predictable, and the characters were underdeveloped.",Neutral,Eternals,Negative,False
+"The movie was okay for what it was, just very bland and forgettable in parts.",Positive,Dungeons & Dragons: Honor Among Thieves,Neutral,False
+"I found the movie to be generally uninspired. There were some interesting ideas, but they weren't executed well.",Neutral,Interstellar,Negative,False
+"A decent movie, nothing too groundbreaking, but still held my attention. I would recommend for a lazy night in.",Neutral,Average Joe,Positive,False
+Not very good. Too long and boring.,Neutral,Oppenheimer,Negative,False
+"While the special effects were impressive, the storyline lacked depth and originality. I expected more.",Neutral,Celestial Odyssey,Negative,False
+"A forgettable film with a predictable plot and uninspired acting. Nothing particularly good or bad, just bland.",Neutral,Suburban Shadows,Negative,False
+"The special effects were good, but the story was lacking. It felt like a generic action movie with nothing new to offer.",Neutral,Transformers: Age of Extinction,Negative,False
+"The plot kept me guessing, though I felt the ending was slightly weak. Overall, a decent watch.",Neutral,Shutter Island,Positive,False
+"While not a perfect film, it had its moments. The performances were generally good, and the story was interesting enough to keep me engaged. Worth a watch if you're looking for something light.",Neutral,Knives Out,Positive,False
