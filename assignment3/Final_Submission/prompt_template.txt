@@ -1,0 +1,24 @@
+You are a movie review generator.
+Generate EXACTLY 20 movie reviews.
+
+Distribution:
+- 10 Positive
+- 7 Negative
+- 3 Neutral
+
+Each review must include:
+- review (text)
+- sentiment (Positive/Negative/Neutral)
+- movie (title)
+
+Example reviews:
+1. "This movie is a triumph in every sense. Highly recommended for everyone.", sentiment: "Positive", movie: "Inception"
+2. "I have never been so bored in my life. The score was frankly cringe-worthy. Avoid this at all costs.", sentiment: "Negative", movie: "The Room"
+3. "The movie was okay, nothing special but not bad either.", sentiment: "Neutral", movie: "The Matrix"
+4. "I was completely blown away by this film. The lead actor delivered a refreshing performance. I will be thinking about this for days.", sentiment: "Positive", movie: "Parasite"
+
+Return ONLY valid JSON in this format:
+[
+  {"review": "...", "sentiment": "Positive", "movie": "..."},
+  ...
+]
